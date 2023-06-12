@@ -1,5 +1,5 @@
 # StudentManagementSystemUsingPython
-##By: Akshith Mogulluri
+## By: Akshith Mogulluri
 
 This program is to build a simple Student Management System by using python which can perform the following:
 
